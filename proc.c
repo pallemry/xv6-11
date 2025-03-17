@@ -558,5 +558,5 @@ cps143()
 
   release(&ptable.lock);
 
-  return 143;
+  return 0;
 }
